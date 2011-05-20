@@ -1,0 +1,8 @@
+Change-Id: Ia490a0ac08712d7f79ab837f49ea5993c8ab5b68
+Code-Review+2: Jean-Baptiste Queru <jbq@google.com>
+Verified+1: Jean-Baptiste Queru <jbq@google.com>
+Submitted-by: Jean-Baptiste Queru <jbq@google.com>
+Submitted-at: Wed, 18 Mar 2009 17:58:49 -0700
+Reviewed-on: https://review.source.android.com/9269
+Project: platform/external/googleclient
+Branch: refs/heads/master
